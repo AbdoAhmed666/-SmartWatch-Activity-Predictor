@@ -120,10 +120,6 @@ The app automatically connects to **ngrok** on port `8501` and prints the public
 | `feature_importance.png` | Top contributing features |
 | `correlation.png` | Correlation heatmap of numeric features |
 
-### 🔹 Feature Importance
-<p align="center">
-  <img src="models/feature_importance.png" alt="Feature Importance" width="600">
-</p>
 
 ---
 
@@ -146,11 +142,6 @@ The UI allows you to:
 | **F1-Score (macro avg)** | 0.92 |
 
 > *Metrics based on the validation set using the best Random Forest model.*
-
-### 🔹 Confusion Matrix
-<p align="center">
-  <img src="models/confusion_matrix.png" alt="Confusion Matrix" width="600">
-</p>
 
 ---
 
@@ -199,7 +190,7 @@ pip install -r requirements.txt
 ## 🧑‍🔬 Author
 
 **Abdelrhman Ahmed**  
-📧 *[Your email or GitHub link here]*  
+📧 *[abdoibrahim122000@gmail.com]*  
 ML Engineer | Data Scientist | IoT & Sensor Data Enthusiast  
 
 ---
