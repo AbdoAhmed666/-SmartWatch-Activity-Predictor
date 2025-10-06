@@ -22,10 +22,6 @@ You can run the web UI locally or expose it online using **ngrok**.
   - Encode categorical variables
   - Normalize numerical features
 
-### 🔹 Correlation Heatmap
-<p align="center">
-  <img src="models/correlation.png" alt="Correlation Heatmap" width="600">
-</p>
 
 - 🤖 **Machine Learning Model**
   - Best model: **Random Forest with GridSearchCV**
