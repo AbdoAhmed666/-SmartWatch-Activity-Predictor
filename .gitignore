@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+smart_watch/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Logs and outputs
+*.log
+*.csv
+*.png
+
+# Ngrok and Streamlit cache
+ngrok/
+.streamlit/
+*/__pycache__/
